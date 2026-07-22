@@ -1,0 +1,7 @@
+python data type:
+numeric: int. float, 
+boolean: bool
+text : str
+sequence: list, tuple, range
+mapping: dictionary (dict)
+set: set
